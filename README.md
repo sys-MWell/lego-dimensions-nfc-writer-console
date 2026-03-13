@@ -106,7 +106,7 @@ The data written to your tag determines whether it’s a character or vehicle:
 
 ## Credits
 This project is built upon and inspired by community contributions:
-   - AlinaNova21 — [**node-ld**](https://github.com/AlinaNova21/node-ld), the Node.js Lego Dimensions Library (provided the base code and character JSON list).
+   - AlinaNova21 — [**node-ld**](https://github.com/AlinaNova21/node-ld).
    - iroteta — Provided [**list_of_characters.json**](https://pastebin.com/YWkX6jaV) and [**list_of_vehicles.json**](https://pastebin.com/NHmWs6gb).
    - Reddit threads & tutorials:
       - [**NFC cloning using iOS**](https://www.reddit.com/r/Legodimensions/comments/kq1dcv/nfc_cloning_using_ios/)
